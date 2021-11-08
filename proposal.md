@@ -5,7 +5,7 @@
 # In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 # The project allows the player to select talent before the game starts. Different talents can give the character controlled by the player different attributes and effects. When entering the game, the player can use the left, right and jump keys to control the character to start the adventure.
 # If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
-# 
+# I am not sure. It may be able to combine Interpersonal Communication. The course will teach me how to communicate with my partner.
 # If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 # Name: Harry(Jiacheng) He; Section: 002; Email: jiacheng.he0001@temple.edu; Name of TA: Steven Dang
 # In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
