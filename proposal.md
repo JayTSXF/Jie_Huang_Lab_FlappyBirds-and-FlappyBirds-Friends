@@ -3,7 +3,7 @@
 # In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 # It may be a game that lets you control a character to dodge the water pipes.
 # In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
-# The project allows the player to select game difficulty before the game starts. Different difficulties can give the player different challenges. When entering the game, the player can use jump keys to control the character to dodge the water pipes.
+# The project allows the player to use jump keys to control the character to dodge the water pipes.
 # If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 # I am not sure. It may be able to combine Interpersonal Communication. The course will teach me how to communicate with my partner.
 # If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
