@@ -16,4 +16,4 @@
 # In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 # I hope I will accomplish a game that will be popular in the future.
 # In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
-# I need to acquire how to use Pygame, and I need to research how FlappyBird games work. I will work on the in-game coding(character, water pipe, sky, and ground), error testing, and bug repairing. My partner will work on the menu coding(guide and score), and photo editing, and pixel transformation.
+# I need to acquire how to use Pygame, and I need to research how FlappyBird games work. I will work on the in-game coding, error testing, and bug repairing. My partner will work on the menu coding, and photo editing, and pixel transformation.
