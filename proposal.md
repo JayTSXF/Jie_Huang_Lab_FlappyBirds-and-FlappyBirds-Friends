@@ -1,9 +1,9 @@
 # What will (likely) be the title of your project?
-# It may be Super Adventure.
+# It maybe like FlappyBird.
 # In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
-# It may be a game that lets you control a character's adventure.
+# It may be a game that lets you control a character to dodge the water pipe.
 # In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
-# The project allows the player to select talent before the game starts. Different talents can give the character controlled by the player different attributes and effects. When entering the game, the player can use the left, right and jump keys to control the character to start the adventure.
+# The project allows the player to select game difficulty before the game starts. Different difficulties can give the player different challenges. When entering the game, the player can use jump keys to control the character to dodge the water pipe.
 # If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 # I am not sure. It may be able to combine Interpersonal Communication. The course will teach me how to communicate with my partner.
 # If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
@@ -16,4 +16,4 @@
 # In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 # I hope I will accomplish a game that will be popular in the future.
 # In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
-# I need to acquire how to use Renpy or Pygame, and I need to research how Mario games work. I will work on the character who is controlled by players, and my partner will work on the environment of adventure.
+# I need to acquire how to use Pygame, and I need to research how FlappyBird games work. I will work on the in-game coding(character, water pipe, sky, and ground), error testing, and bug repairing. My partner will work on the menu coding(guide and score), and photo editing, and pixel transformation.
