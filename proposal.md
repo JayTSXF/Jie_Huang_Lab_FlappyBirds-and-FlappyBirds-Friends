@@ -1,5 +1,5 @@
 # What will (likely) be the title of your project?
-# It maybe like FlappyBird.
+# FlappyBirds and FlappyBirds' friends.
 # In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 # It may be a game that lets you control a character to dodge the water pipe.
 # In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
