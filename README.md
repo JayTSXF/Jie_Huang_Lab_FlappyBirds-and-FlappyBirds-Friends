@@ -4,5 +4,4 @@
 # We encountered several bugs along the way. The drop speed of the dying character was initially slow, but we adjusted the Frames Per Second (FPS) to resolve it. Issues with characters hitting the sky or ground causing crashes were fixed by adding a variable. While facing difficulties with pygame.sprite.Sprite(), recommended in the tutorial video, we utilized Python's own code.
 # Our water pipes could only turn 180 degrees due to challenges with pygame.transform.rotate(), avoiding flip(). When characters died, water pipes disappeared, so we replaced them with RIP tombs. Attempts to modify the speed of movement revealed persistent bugs, leading us to implement a gradual difficulty increase with game time.
 # The most significant bug was related to score display. After multiple adjustments, we introduced a variable called score_y and modified the scoring mechanism. Despite encountering challenges, we managed to make the game successful, gaining valuable insights into using Python and pygame along the way.
-# Our video link: https://youtu.be/Arw3q1M5bZ8
 # Tutorial video link: https://www.bilibili.com/video/BV1Kz4y1m7PZ?spm_id_from=333.999.0.0
