@@ -6,7 +6,7 @@ A custom Flappy Birds game developed in Python using Pygame (November 2021 - Dec
 
 **Key Achievements:**
 - Developed a Python-based Flappy Bird game using Pygame with swappable themes, avatars, and music
-- Redesigned game obstacles using sprite functions and replaced water pipes with custom trap mechanics to improve user experience
+- Redesigned game obstacles using sprite functions and replaced water pipes with custom trap mechanics
 - Implemented Pygame library functions to modify scoring system and enhance game restart functionality
 
 ## Installation
