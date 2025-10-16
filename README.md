@@ -1,6 +1,15 @@
-# FlappyBirds and FlappyBirds’ Friends
-# Hello everyone, I'm Jie (Jay) Huang, and my partner is Harry (Jiacheng) He. Our final project revolves around a game we've named "FlappyBirds and FlappyBirds’ Friends." Initially, our plan was to create a game similar to Mario, but we encountered various bugs, including issues with Mario's air resistance, jump inertia, and game crashes. Consequently, we decided to pivot and develop a game inspired by FlappyBirds.
-# We followed a tutorial video, making significant modifications and incorporating our own ideas. Initially, we delved into learning how to use pygame and pycharm. Next, we structured the FlappyBirds game, including in-game themes, menu themes, and sprites died themes. The game-building process involved addressing challenges and making adjustments. For example, we opted not to make the bird's wings vibrate but introduced diverse characters and backgrounds.
-# We encountered several bugs along the way. The drop speed of the dying character was initially slow, but we adjusted the Frames Per Second (FPS) to resolve it. Issues with characters hitting the sky or ground causing crashes were fixed by adding a variable. While facing difficulties with pygame.sprite.Sprite(), recommended in the tutorial video, we utilized Python's own code.
-# Our water pipes could only turn 180 degrees due to challenges with pygame.transform.rotate(), avoiding flip(). When characters died, water pipes disappeared, so we replaced them with RIP tombs. Attempts to modify the speed of movement revealed persistent bugs, leading us to implement a gradual difficulty increase with game time.
-# The most significant bug was related to score display. After multiple adjustments, we introduced a variable called score_y and modified the scoring mechanism. Despite encountering challenges, we managed to make the game successful, gaining valuable insights into using Python and pygame along the way.
+# Flappy Birds and Flappy Birds' Friends
+
+## Overview
+
+A custom Flappy Birds game developed in Python using Pygame (November 2021 - December 2021). Features customizable themes, characters, and music with enhanced gameplay mechanics.
+
+**Key Achievements:**
+- Developed a Python-based Flappy Bird game using Pygame with swappable themes, avatars, and music
+- Redesigned game obstacles using sprite functions and replaced water pipes with custom trap mechanics to improve user experience
+- Implemented Pygame library functions to modify scoring system and enhance game restart functionality
+
+## Installation
+
+```bash
+pip install pygame
